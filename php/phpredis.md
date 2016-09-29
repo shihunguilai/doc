@@ -56,3 +56,5 @@ cd mulu
 ./configure
 sudo make && sudo make install && sudo make test
 ```
+- phpredis 使用手册
+[http://www.cnblogs.com/zcy_soft/archive/2012/09/21/2697006.html](http://www.cnblogs.com/zcy_soft/archive/2012/09/21/2697006.html)

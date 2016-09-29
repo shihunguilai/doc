@@ -1,0 +1,4 @@
+- 长链接和短连接   mysql redis memcache
+- 第三方支付 支付宝 微信
+- 第三方登陆 微信 qq 微博
+- php session存储 cookie 加密

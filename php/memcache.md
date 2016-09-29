@@ -1,0 +1,4 @@
+- memecache 服务端
+ - 服务端软件 叫memcache，主程序 为 memcached
+- memcache 客户端
+ - php有2个memcache客户端（php扩展）,php memcache 和 php memcached
