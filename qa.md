@@ -2,3 +2,7 @@
 - 第三方支付 支付宝 微信
 - 第三方登陆 微信 qq 微博
 - php session存储 cookie 加密
+- 设计模式 php  laravel学院
+- docker
+- 之前做的项目的总结
+- 又拍云，七牛 sdk 熟悉
