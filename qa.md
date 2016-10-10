@@ -8,3 +8,7 @@
 - 又拍云，七牛 sdk 熟悉
 - 数组，字符串 函数
 - restful 接口
+- sphinx
+- 大访问量下php处理 问题
+- mysql 优化，性能调优 ，索引 全文索引
+- php 敏感词过滤 https://segmentfault.com/q/1010000004214225/a-1020000004214499
