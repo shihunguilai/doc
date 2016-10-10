@@ -13,3 +13,8 @@
 - mysql 优化，性能调优 ，索引 全文索引
 - php 敏感词过滤 https://segmentfault.com/q/1010000004214225/a-1020000004214499
 - RabbitMQ  elasticsearch
+- 开源搜索引擎评估:lucene sphinx elasticsearch
+- php开发过程中的  消息队列应用
+- 排序 查找算法----------
+- php 面向对象 复习
+- php高并发
