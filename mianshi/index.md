@@ -6,3 +6,4 @@
 - [Time33算法](https://www.cnblogs.com/52fhy/p/5007456.html)
 - [谈谈HTTP协议中的短轮询、长轮询、长连接和短连接](http://web.jobbole.com/85541/)
 - [webim使用http长轮询如何保证消息的绝对实时性](http://blog.sina.com.cn/s/blog_6e51df7f0102xgpf.html)
+- [Nginx+Varnish 实现动静分离，为服务器分流，降低服务器载](https://www.cnblogs.com/painsOnline/p/5166889.html)
