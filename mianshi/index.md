@@ -7,13 +7,13 @@
 - [谈谈HTTP协议中的短轮询、长轮询、长连接和短连接](http://web.jobbole.com/85541/)
 - [webim使用http长轮询如何保证消息的绝对实时性](http://blog.sina.com.cn/s/blog_6e51df7f0102xgpf.html)
 - [Nginx+Varnish 实现动静分离，为服务器分流，降低服务器载](https://www.cnblogs.com/painsOnline/p/5166889.html)
-- [B+tree]
 - [lsm树]
 - trie树(字典树，又称为单词查找树)相关
     - [字典树-百科](https://baike.baidu.com/item/%E5%AD%97%E5%85%B8%E6%A0%91)
     - [字典树(Trie树)实现与应用](https://www.cnblogs.com/xujian2014/p/5614724.html)
     - [Trie树详解及其应用](https://blog.csdn.net/gao1440156051/article/details/51357135)
     - [为什么 360 面试官说 Trie 树没用？](https://www.zhihu.com/question/27168319)
+    - [Trie树的数组实现原理](http://blog.jqian.net/post/trie.html)
     - AC自动机
     - 前缀树
     - 后缀树
@@ -22,4 +22,4 @@
 - B+树
 - hash hash冲突
 - 倒排
-- 接口限速
+- 接口限速 滑动窗口
