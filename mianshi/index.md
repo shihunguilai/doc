@@ -22,5 +22,6 @@
 - B+树
 - 动态hash
 - hash hash冲突
+    - [Hash算法总结](https://blog.csdn.net/asdzheng/article/details/70226007)
 - 倒排
 - 接口限速 滑动窗口
